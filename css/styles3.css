@@ -1,0 +1,45 @@
+body{
+    background-color: burlywood;
+    color: rgb(28, 12, 0);
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+img {
+    width: 25%;
+    height: auto;
+    margin-left: 50px;
+}
+.container {
+    display: flex; /* Use flexbox for layout */
+    align-items: center; /* Center items vertically */
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.text {
+    text-align: justify;
+    margin-left: 150px; /* Adjust the margin as needed */
+    margin-right: 150px;
+}
+.vizz {
+    display: flex;
+    justify-content: center; /* or any other value like flex-start, flex-end*/
+}
+.textya{
+    text-align: center;
+    margin-left: 220px; /* Adjust the margin as needed */
+    margin-right: 220px;
+}
+a{
+    color: rgb(28, 12, 0);
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: bold;
+}
+.lifesucks{
+    text-align: center;
+}

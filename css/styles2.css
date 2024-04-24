@@ -1,0 +1,21 @@
+.masthead-subheading{
+    color: black;
+}
+.masthead-heading{
+    color: black !important;
+}
+.hahawhite{
+    color:rgb(253, 253, 242) !important;
+}
+.textalignleft{
+    text-align: left;
+}
+.column-one {
+    flex: 1; /* Each column takes up equal space */
+    padding: 10px; /* Optional: Add padding for spacing */
+}
+.column-two {
+    flex: 1; /* Each column takes up equal space */
+    padding: 10px; /* Optional: Add padding for spacing */
+    padding-left: 290px;
+}
